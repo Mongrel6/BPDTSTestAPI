@@ -1,17 +1,7 @@
-﻿using BPDTSTestAPI.Data;
-using BPDTSTestAPI.Helpers;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.Primitives;
-using Newtonsoft.Json;
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Net.Http;
-using System.Reflection;
-using System.Reflection.Metadata.Ecma335;
-using System.Threading;
+﻿using System.Collections.Generic;
 using System.Threading.Tasks;
+using BPDTSTestAPI.Data;
+using BPDTSTestAPI.Helpers;
 
 namespace BPDTSTestAPI.Repository
 {
